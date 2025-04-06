@@ -2,8 +2,6 @@
 
 Uwaga! Ten projekt służy jedynie jako pamiątka kolekcjonerska.
 
-https://morleee.github.io/yObywatel
-
 ### Instrukcja zainstalowania:
 #### Dla systemu IOS:
 - Upewnij się, że używasz przeglądarki Safari
